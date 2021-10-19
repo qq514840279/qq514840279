@@ -1,5 +1,5 @@
  ## 简介
- 
+
     普通程序员一枚，主要工作方向是java web 偏后端，前端了解一些，会用简单的vue编写，现在主要使用spring cloud。
 <!--
     姓名： 王滕辉 
@@ -20,8 +20,11 @@
     vue/一般
     mysql/熟悉、oracle/熟悉、sql server/sqlite/h2database/一般
     elsticSearch/一般、solr/一般、mongodb/一般
+    neo4j/一般
     redis/一般、rabbitMQ/一般、kafka/一般
     eclipse/熟悉、idea/一般
+    maven/熟悉
+    git/svn/熟悉
     docker/docker swarm /熟悉
 
 
