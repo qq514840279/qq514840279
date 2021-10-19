@@ -1,5 +1,7 @@
-## 简介
-
+ ## 简介
+ 
+    普通程序员一枚，主要工作方向是java web 偏后端，前端了解一些，会用简单的vue编写，现在主要使用spring cloud。
+<!--
     姓名： 王滕辉 
     性别： 男
     出生年： 1991
@@ -7,7 +9,7 @@
         QQ/微信：514840279 
         Email：514840279@qq.com
 
-常用工具：[简书](https://www.jianshu.com/u/cf31b9838b17) /[github](https://github.com/514840279) /[笔记](https://514840279.github.io/514840279/) 
+常用工具：[简书](https://www.jianshu.com/u/cf31b9838b17) /[github](https://github.com/514840279) /[笔记](https://514840279.github.io/514840279/)  -->
     
 
 ## 技能
@@ -16,7 +18,7 @@
     python/一般
     ssh/ssm/熟悉、spring boot/spring cloud/熟悉
     vue/一般
-    mysql/熟悉、oracle/熟悉、sql server/一般
+    mysql/熟悉、oracle/熟悉、sql server/sqlite/h2database/一般
     elsticSearch/一般、solr/一般、mongodb/一般
     redis/一般、rabbitMQ/一般、kafka/一般
     eclipse/熟悉、idea/一般
