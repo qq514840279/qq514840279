@@ -12,7 +12,15 @@
 
 ## 技能
 
-    java/熟悉、ssh/ssm/熟悉、spring boot/spring cloud/熟悉、python/一般、vue/一般、eclipse/熟悉、idea/一般、mysql/一般、oracle/熟悉、sql server/一般、elsticSearch/一般、solr/一般、mongodb/一般、redis/一般、rabbitMQ/一般、kafka/一般、docker/docker swarm /熟悉
+    java/熟悉
+    python/一般
+    ssh/ssm/熟悉、spring boot/spring cloud/熟悉
+    vue/一般
+    mysql/熟悉、oracle/熟悉、sql server/一般
+    elsticSearch/一般、solr/一般、mongodb/一般
+    redis/一般、rabbitMQ/一般、kafka/一般
+    eclipse/熟悉、idea/一般
+    docker/docker swarm /熟悉
 
 
 <!-- ## 工作经验
