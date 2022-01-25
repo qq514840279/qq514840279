@@ -18,14 +18,30 @@
     python/一般
     ssh/ssm/熟悉、spring boot/spring cloud/熟悉
     vue/一般
-    mysql/熟悉、oracle/熟悉、sql server/sqlite/h2database/一般
+    mysql/熟悉、oracle/熟悉、sql server/sqlite/h2database/postgresql/一般
     elsticSearch/一般、solr/一般、mongodb/一般
     neo4j/一般
     redis/一般、rabbitMQ/一般、kafka/一般
-    eclipse/熟悉、idea/一般
     maven/熟悉
     git/svn/熟悉
     docker/docker swarm /熟悉
+    linux/一般
+    
+    
+ ## 常用工具
+    Eclipse/STS/熟悉 .Idea.Vscode,/一般
+    Pycharm,Beyond Compare,EmEditor,/一般
+    navicat,plsql,sql server,/熟悉
+    Docker Registry /熟悉
+    GitHub Desktop/熟悉
+    Xshell,Xftp/熟悉
+    Portainer,/熟悉
+    Nacos,Sentinel,/一般
+    Nexus,/熟悉
+    SonarQube,/熟悉
+    
+    
+    
 
 
 <!-- ## 工作经验
