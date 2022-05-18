@@ -1,6 +1,14 @@
  ## 简介
+<img src="https://github-readme-stats-mrdulin.vercel.app/api?username=514840279&show_icons=true&hide_border=true&icon_color=586069&title_color=60696f&include_all_commits=true&hide_title=true" align="right" />
 
-    普通程序员一枚，主要工作方向是java web 偏后端，前端了解一些，会用简单的vue编写，现在主要使用spring cloud。
+   ```
+   普通程序员一枚，
+   主要工作方向是java web 偏后端，
+   前端了解一些，会用简单的vue编写，
+   熟练使用sql，中间件
+   现在主要使用spring cloud。
+   接触开发近十年，经理绝对丰富，熟悉一堆框架。
+   ```
 <!--
     姓名： 王滕辉 
     性别： 男
@@ -14,18 +22,20 @@
 
 ## 技能
 
-    java/熟悉
-    python/一般
-    ssh/ssm/熟悉、spring boot/spring cloud/熟悉
-    vue/一般
-    mysql/熟悉、oracle/熟悉、sql server/sqlite/h2database/postgresql/一般
-    elsticSearch/一般、solr/一般、mongodb/一般
-    neo4j/一般
-    redis/一般、rabbitMQ/一般、kafka/一般
-    maven/熟悉
-    git/svn/熟悉
-    docker/docker swarm /熟悉
-    linux/一般
+  ``` 
+   java/熟悉
+   python/一般
+   ssh/ssm/熟悉、spring boot/spring cloud/熟悉
+   vue/一般
+   mysql/熟悉、oracle/熟悉、sql server/sqlite/h2database/postgresql/一般
+   elsticSearch/一般、solr/一般、mongodb/一般
+   neo4j/一般
+   redis/一般、rabbitMQ/一般、kafka/一般
+   maven/熟悉
+   git/svn/熟悉
+   docker/docker swarm /熟悉
+   linux/一般
+   ```
     
     
  ## 常用工具
